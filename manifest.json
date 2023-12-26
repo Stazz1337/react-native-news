@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "react-native-news",
+  "short_name": "react-native-news",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}

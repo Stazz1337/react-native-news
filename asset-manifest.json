@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-native-news/static/js/main.a978a50a.js",
+    "static/js/482.6d369085.js": "/react-native-news/static/js/482.6d369085.js",
+    "favicon.ico": "/react-native-news/favicon.ico",
+    "index.html": "/react-native-news/index.html",
+    "favicon-32.png": "/react-native-news/favicon-32.png",
+    "favicon-16.png": "/react-native-news/favicon-16.png",
+    "static/media/index.cjs": "/react-native-news/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "manifest.json": "/react-native-news/manifest.json",
+    "serve.json": "/react-native-news/serve.json",
+    "main.a978a50a.js.map": "/react-native-news/static/js/main.a978a50a.js.map",
+    "482.6d369085.js.map": "/react-native-news/static/js/482.6d369085.js.map"
+  },
+  "entrypoints": [
+    "static/js/482.6d369085.js",
+    "static/js/main.a978a50a.js"
+  ]
+}
